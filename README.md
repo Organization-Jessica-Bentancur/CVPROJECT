@@ -39,7 +39,7 @@ Resultado del análisis de la prueba estática de SonarQube.
 Plan de pruebas de regresión completo del proyecto.
 
 ### COBERTURA DE PRUEBAS Y DOCUMENTACIÓN EN VIVO
-[Cobertura de prueba BDD](/test-plans/functional-test-plan-and-bdd-coverage.pdf)
+[Cobertura de prueba BDD](/informes-test-plan/functional-test-plan-and-bdd-coverage.pdf)
 Cobertura completa de pruebas funcionales BDD del proyecto y documentación en vivo.
 
 
