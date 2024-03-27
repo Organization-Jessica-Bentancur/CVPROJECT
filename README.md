@@ -34,12 +34,12 @@ Este proyecto adopta la metodología BDD para realizar pruebas.
 [![Quality Gate Status](https://sonarcloud.io/api/project_badges/measure?project=Organization-Jessica-Bentancur_CVPROJECT&metric=alert_status)](https://sonarcloud.io/summary/new_code?id=Organization-Jessica-Bentancur_CVPROJECT)
 Resultado del análisis de la prueba estática de SonarQube.
 
-### PLAN DE PRUEBA
-[Plan de prueba de regresión](/test-plans/regression-test-plan.pdf)
+### PLAN DE PRUEBA DE REGRESIÓN
+[Plan de prueba de regresión](/test-plans/regression-test-plan-coverage.pdf)
 Plan de pruebas de regresión completo del proyecto.
 
 ### COBERTURA DE PRUEBAS Y DOCUMENTACIÓN EN VIVO
-[Cobertura de prueba BDD](/informes-test-plan/functional-test-plan-and-bdd-coverage.pdf)
+[Cobertura de prueba BDD](/test-plan/functional-test-plan-and-bdd-coverage.pdf)
 Cobertura completa de pruebas funcionales BDD del proyecto y documentación en vivo.
 
 
@@ -49,6 +49,11 @@ Resultados de pruebas funcionales y de regresión e informe para cada versión d
 * [Resultados de pruebas funcionales e informe de errores 1.1](/test-results/functional-tests-results-and-bugs-report-release-1.1.pdf)
 * [Resultados de la prueba de regresión 1.1](/test-results/regression-test-results-release-1.1.pdf)
 
+#### Versión de lanzamiento 1.2
+* [Resultados de pruebas funcionales e informe de errores 1.2](/test-results/functional-tests-results-and-bugs-report-release-1.2.pdf)
+* [Resultados de la prueba de regresión 1.2](/test-results/regression-test-results-release-1.2.pdf)
+
+
 ## AUTOR
-Jessica Bentancur, QA Analyst
+Jessica Bentancur, QA Manual Analyst
 [Perfil de LinkedIn](https://www.linkedin.com/in/jessicabentancur)
