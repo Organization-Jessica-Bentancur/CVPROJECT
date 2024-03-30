@@ -12,7 +12,7 @@ Este proyecto utiliza la herramienta JIRA para la gestión de proyectos y seguim
 
 ## VÍDEO DE DEMOSTRACIÓN
 Este proyecto incluye un Vídeo Demostrativo de cada funcionalidad desarrollada.
-* [VÍDEOS DE DEMOSTRACIÓN](/demo/)
+* [VÍDEOS DE DEMOSTRACIÓN](/video-demo/)
 ## ESTRATEGIA DE PRUEBA
 Este proyecto adopta la metodología BDD para realizar pruebas.
 
